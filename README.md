@@ -8,5 +8,7 @@
 - 💬 Ask me about : anything you want related to information technology, I will do my best to give an appropriate answer.
 - 📫 How to reach me: arolddankoue@gmail.com
 - Favorite quote :
-  --- I'm merely one man, fighting against myself. So albeit a shallow win, this one small victory is more than enough"
-  - Jang Jirak, 1973
+  ---
+  > I'm merely one man, fighting against myself. So albeit a shallow win, this one small victory is more than enough"
+
+  Jang Jirak, 1973
