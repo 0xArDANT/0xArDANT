@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Arold D. Touko
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/0xArDANT/0xArDANT/blob/main/logo-greenowl.png">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/0xArDANT/0xArDANT/blob/main/logo-greenowl.png">
- <img alt="YOUR-ALT-TEXT" src="https://github.com/0xArDANT/0xArDANT/blob/main/logo-greenowl.png">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/0xArDANT/0xArDANT/blob/main/banner-github.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/0xArDANT/0xArDANT/blob/main/banner-github.jpg">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/0xArDANT/0xArDANT/blob/main/banner-github.jpg">
 </picture>
 
 - 🔭 I’m currently working on some experiments in blockchain dev
