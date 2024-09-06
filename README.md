@@ -15,3 +15,6 @@
 
   Jang Jirak, 1973
 
+- Trophies :
+
+[![trophy](https://github-trophies.vercel.app/?username=0xArDANT&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
