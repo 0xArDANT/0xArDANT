@@ -14,7 +14,3 @@
   > I'm merely one man, fighting against myself. So albeit a shallow win, this one small victory is more than enough"
 
   Jang Jirak, 1973
-
-- Trophies :
-
-[![trophy](https://github-trophies.vercel.app/?username=0xArDANT&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
