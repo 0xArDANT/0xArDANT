@@ -1,9 +1,13 @@
 ## Hi there 👋 I'm Arold D. Touko
 
-- 🔭 I’m currently working on some experiments in blockchain dev
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBkYm1jdTN2c3ltdGNpN2NpZHlpYmw0bGxkdWd4cWszdGFqYTlzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1YFTAeTT3UAxnl6Bx/giphy.gif" width="200"/>
+</div>
+
+- 🔭 I do blockchain development and I'm a computer science trainer.
 - 🌱 I’m learning Solidity and TypeScript
-- 👯 I’m looking to collaborate on blockchain projects
-- 🤔 I’m looking for blockchain related roles (dev, trainer and content writer)
+- 👯 I’m looking to collaborate on blockchain projects, join a dynamic team.
+- 🤔 I’m looking for blockchain related roles or missions (dev, trainer and content writer)
 - 💬 Ask me about : anything you want related to information technology, I will do my best to give an appropriate answer.
 - 📫 How to reach me: arolddankoue@gmail.com
 
