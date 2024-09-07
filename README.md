@@ -9,6 +9,8 @@
 - Links to have testnet Sepolia ETH if you're a Web3 developer :
   - https://cloud.google.com/application/web3/faucet/ethereum/sepolia
   - https://faucets.chain.link/sepolia
+
+[![Arold D. TOUKO GitHub stats](https://github-readme-stats.vercel.app/api?username=0xArDANT)](https://github.com/anuraghazra/github-readme-stats)
 - Favorite quote :
   ---
   > I'm merely one man, fighting against myself. So albeit a shallow win, this one small victory is more than enough"
