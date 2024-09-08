@@ -16,7 +16,7 @@ Links to have testnet Sepolia ETH if you're a Web3 developer :
   - https://faucets.chain.link/sepolia
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0xArDANT" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0xArDANT&hide=stars" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xArDANT&hide=PHP,MDX,JavaScript,HTML,CSS&layout=compact&langs_count=8&card_width=320" />
