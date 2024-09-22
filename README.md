@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on blockchain projects, join a dynamic team.
 - 🤔 I’m looking for blockchain related roles or missions (dev, trainer and content writer)
 - 💬 Ask me about : anything you want related to information technology, I will do my best to give an appropriate answer.
-- 📫 How to reach me: arolddankoue@gmail.com
+- 📫 How to reach me: 0xArDANT@gmail.com
 
 Links to have testnet Sepolia ETH if you're a Web3 developer :
   - https://cloud.google.com/application/web3/faucet/ethereum/sepolia
