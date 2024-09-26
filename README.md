@@ -5,7 +5,7 @@
 </div>
 
 - 🔭 I do blockchain development and I'm a computer science trainer.
-- 🌱 I’m learning Solidity and TypeScript || You are lucky, I also speak French(native) and English(Professional) :) 
+- 🌱 Languages : Solidity and TypeScript || I almost forgot, I also speak French(native) and English(Professional) :) 
 - 👯 I’m looking to collaborate on blockchain education inititiatives, I believe democratizing high quality skills is the way to go.
 - 🤔 I’m looking for blockchain related roles or missions (dev, trainer and technical writer)
 - 💬 Ask me about : anything you want related to information technology, I will do my best to give an appropriate answer.
