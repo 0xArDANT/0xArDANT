@@ -11,11 +11,12 @@
 - 💬 Ask me about : anything you want related to information technology, I will do my best to give an appropriate answer.
 - 📫 How to reach me: 0xArDANT@gmail.com
 
+A great ressource if you are a backend developer who wants to dive into Web3 : https://rareskills.io/learn-solidity/
+
 Links to have testnet Sepolia ETH if you're a Web3 developer :
   - https://cloud.google.com/application/web3/faucet/ethereum/sepolia
-  - https://faucets.chain.link/sepolia
+  - https://faucHets.chain.link/sepolia
 
-A great ressource if you are a backend developer who wants to transition into Web3 : https://rareskills.io/learn-solidity/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0xArDANT&hide=stars" />
