@@ -4,10 +4,10 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBkYm1jdTN2c3ltdGNpN2NpZHlpYmw0bGxkdWd4cWszdGFqYTlzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1YFTAeTT3UAxnl6Bx/giphy.gif" width="200"/>
 </div>
 
-- 🔭 I do blockchain development and I'm a computer science trainer.
-- 🌱 Languages : Solidity and TypeScript || I almost forgot, I also speak French(native) and English(Professional) :) 
+- 🔭 I am passionate about training people and building softwares.
+- 🌱 Languages : PHP, Solidity and TypeScript || I almost forgot, I also speak French(native) and English(Professional) :) 
 - 👯 I’m looking to collaborate on blockchain education inititiatives, I believe democratizing high quality skills is the way to go.
-- 🤔 I’m looking for blockchain related roles or missions (dev, trainer and technical writer)
+- 🤔 I’m looking for blockchain related roles or missions (dev or trainer)
 - 💬 Ask me about : anything you want related to information technology, I will do my best to give an appropriate answer.
 - 📫 How to reach me: 0xArDANT@gmail.com
 
